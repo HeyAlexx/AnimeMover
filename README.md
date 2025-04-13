@@ -4,3 +4,5 @@ Automated Video File Management Tool | Java,JavaFx Jan 2018
 
 • It reads video files from a folder, extracts metadata from files, compares them with an existing directory structure, and
 renames/moves compatible files accordingly.
+
+Preview: https://youtu.be/9gmrNXKRFGI
