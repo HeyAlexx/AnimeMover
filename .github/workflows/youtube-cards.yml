@@ -15,6 +15,8 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           channel_id: UCbitL4tTxL9yk5hQXUDvXaQ
           playlist_id: PLu7r7fuTp5PneA-167ypK7buHuMmehQdu
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
