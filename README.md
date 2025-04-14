@@ -6,3 +6,7 @@ Automated Video File Management Tool | Java,JavaFx Jan 2018
 renames/moves compatible files accordingly.
 
 Preview: https://youtu.be/9gmrNXKRFGI
+
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
